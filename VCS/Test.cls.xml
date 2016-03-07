@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Class name="VCS.Test">
+<Super>%RegisteredObject</Super>
+<TimeCreated>63984,80577.311371</TimeCreated>
+
+<Method name="WriteNames">
+<Description>
+Output names
+Do ##class(VCS.Test).WriteNames()</Description>
+<ClassMethod>1</ClassMethod>
+<Implementation><![CDATA[	Write "Hello",!
+]]></Implementation>
+</Method>
+</Class>
+</Export>
